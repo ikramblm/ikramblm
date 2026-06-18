@@ -52,66 +52,6 @@ Recently I've been focusing on:
 
 ---
 
-# ⭐ Featured Projects
-
-## 🏛 ESC Sétif 1 – University Services & Consulting Platform
-
-Enterprise full-stack platform built with:
-
-- React 18
-- TypeScript
-- Node.js
-- Express.js
-- PostgreSQL
-- JWT Authentication
-- AES-256 Encryption
-- Trilingual (FR / AR / EN)
-- Modern Cloud Deployment
-
----
-
-## 🤖 AI Cold Email Personalizer
-
-AI-powered SaaS application featuring:
-
-- Claude API
-- Stripe Integration
-- CSV Import
-- Website Scraping
-- Authentication
-- Secure Backend
-
----
-
-## 🛒 E-Commerce Platform
-
-Responsive shopping platform featuring:
-
-- Authentication
-- Product Management
-- Admin Dashboard
-- MySQL Database
-
----
-
-## 🔒 Security Attack & Defense System
-
-Cybersecurity platform including:
-
-- Brute-force Detection
-- SQL Injection Monitoring
-- IP Blocking
-- Security Dashboard
-
----
-
-## 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=ikramblm&show_icons=true&theme=github_dark&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ikramblm&layout=compact&theme=github_dark&hide_border=true)
-
----
 
 ## 🌱 Currently Learning
 
@@ -119,7 +59,7 @@ Cybersecurity platform including:
 - Advanced React
 - System Design
 - CI/CD
-- Testing
+-  Penetration Testing
 - Cloud Architecture
 
 ---
